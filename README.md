@@ -2,7 +2,7 @@
 
 This repository contains the source code for the Amazon Clone Project, a web application developed using HTML, CSS, and JavaScript. The project aims to replicate the core functionalities and user interface of the Amazon website, allowing users to browse products, add items to their cart, and proceed through the checkout process.
 
-![Amazon Clone](insert_image_link_here)
+![Amazon Clone](![Screenshot (6)](https://github.com/Ankush1505/Amazon-Clone-Website-Project/assets/115377742/201e0e61-e53e-40bd-9c9d-03545d1a1f22))
 
 ## Features
 
